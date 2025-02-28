@@ -1,2 +1,2 @@
-# c-_projects
+# c++_projects
 My C++ projects using Raylib
